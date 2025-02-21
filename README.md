@@ -17,17 +17,17 @@
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)
+- 🔭 I’m currently working on [InstaPyBot]
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harikanani/](https://github.com/harikanani/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Python,JavaScript,Node.Js**
 
 - 📫 How to reach me **harikanani2003@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harikrushn-kanani/](https://www.linkedin.com/in/harikrushn-kanani/)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I love to code**
 
